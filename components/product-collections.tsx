@@ -6,9 +6,9 @@ export function ProductCollections() {
   return (
     <section className="py-24 bg-background">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-        <div className="text-center mb-20">
+        <div className="mb-20 mt-16">
           <h2 className="text-3xl sm:text-4xl font-bold text-[#1A1C1E] mb-4">Explore Our Signature Collections</h2>
-          <p className="text-xl text-muted-foreground max-w-2xl mx-auto font-manrope">
+          <p className="text-xl text-muted-foreground max-w-2xl font-manrope">
             Hand-selected materials and timeless designs for a home that feels as good as it looks.
           </p>
         </div>
