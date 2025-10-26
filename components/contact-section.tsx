@@ -249,7 +249,7 @@ export function ContactSection() {
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      @jennyflying.hu
+                      @jenny.homedecor
                     </a>
                   </div>
                 </div>
