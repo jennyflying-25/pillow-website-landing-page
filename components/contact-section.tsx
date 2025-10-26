@@ -244,7 +244,7 @@ export function ContactSection() {
                   <div>
                     <p className="font-semibold text-foreground">Instagram</p>
                     <a
-                      href="https://www.instagram.com/jennyflying.hu/"
+                      href="https://www.instagram.com/jenny.homedecor/"
                       className="text-primary hover:text-primary/80 font-manrope"
                       target="_blank"
                       rel="noopener noreferrer"
